@@ -1,7 +1,7 @@
 # This GitHub workflow deploys Bundle assets (ML asset config and more)
 # defined under azure_mlops_stacks/assets/*
 # and azure_mlops_stacks/databricks.yml with staging deployment target configs,
-# when PRs are merged into the default branch
+# when PRs are merged into the default branch #
 name: Bundle Deployment for azure-mlops-stacks Staging
 
 on:
